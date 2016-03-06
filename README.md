@@ -25,7 +25,7 @@ Thu 3~3 POSCO365
 6 37269 01 Smart Software Project 스마트소프트웨어프로젝트 3.0 HyungJune Lee 이형준 월(Mon) 5~7 공학A122 4.5
 7 38046 01 Financial Technology 핀테크 3.0 Seth Huang Seth Huang 화(Tue) 3~3 경영205 목 (Thu) 2~2 경영205 3.0
 
-<a href=http://koreahaos.github.io/ewha_spring_2016/Schedule.html" >.</a>
+<a href="http://koreahaos.github.io/ewha_spring_2016/Schedule.html" >.</a>
 
 1 08:00-09:15
 2 09:30-10:45
